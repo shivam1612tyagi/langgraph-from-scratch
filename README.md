@@ -1,4 +1,4 @@
-# 🚀 LangGraph Mastery
+# 🚀 LangGraph from Scratch
 
 > A complete hands-on journey to mastering **LangGraph**, **Agentic AI**, **Tool Calling**, **Memory Systems**, and **AI Workflows** using Python.
 
