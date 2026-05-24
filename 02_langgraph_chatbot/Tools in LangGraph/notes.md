@@ -1,2 +1,2 @@
-pip install -U ddgs
+pip install -U ddgs \n 
 pip install langchain-community
