@@ -1,3 +1,5 @@
+# 📝 Notes — LangGraph Chatbot Series
+---
 # 1️⃣ How to Build a Chatbot using LangGraph
 
 ---
