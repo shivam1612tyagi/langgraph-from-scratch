@@ -22,4 +22,8 @@
 
 # 6️⃣ LangGraph + SQLite | Chatbot with Database Integration
 
+---
+
+# 7️⃣ Tools in LangGraph
+
 
